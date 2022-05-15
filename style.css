@@ -1,0 +1,10 @@
+.carousel-item img{
+    height: 750px;
+    object-fit: cover;
+}
+.logins button:focus{
+    box-shadow: none;
+}
+.form-control:focus{
+ box-shadow: none !important;
+}
